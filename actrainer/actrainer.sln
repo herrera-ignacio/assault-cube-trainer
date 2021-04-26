@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "actrainer", "actrainer\actrainer.csproj", "{684FEF59-3307-4ED9-8912-F888A998A190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684FEF59-3307-4ED9-8912-F888A998A190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684FEF59-3307-4ED9-8912-F888A998A190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684FEF59-3307-4ED9-8912-F888A998A190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684FEF59-3307-4ED9-8912-F888A998A190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3FA2EB4-87DD-4AF4-A5AB-2BB1F9394F11}
+	EndGlobalSection
+EndGlobal
